@@ -12,7 +12,7 @@ This project explores the capabilities of LangChain, a framework for developing 
 - Modular and extensible codebase
 
 ## 📁 Project Structure
-- `chatbot/` — Source code for the chatbot and LangChain workflows
+- `src/` — Source code for the chatbot and LangChain workflows
 - `README.md` — Project documentation
 
 ## 🛠️ Setup Instructions
