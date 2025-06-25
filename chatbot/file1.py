@@ -1,2 +1,4 @@
-def swap(a,b)
-    return a,b
+import src.file2 as swap
+
+a=3
+b=5
