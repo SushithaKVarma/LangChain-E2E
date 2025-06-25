@@ -1,5 +1,4 @@
-import
-
+# installing the require dpackages of the project
 pandas 
 pytest
 
